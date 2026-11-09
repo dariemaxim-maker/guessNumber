@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5+Duo:ital,wght@0,100..900;1,100..900&display=swap');
+
+.contenitore1 {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px;
+    border-color: black;
+}
+
+.titolo {
+    font-family: "Tiny5 Duo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "BLED" 0,
+        "JITT" 0,
+        "ROND" 0;
+}
